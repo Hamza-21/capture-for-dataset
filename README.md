@@ -1,2 +1,5 @@
 # capture-for-dataset
-A simple program in OpenCV to capture images via webcam and save it.
+only library needed in openCV
+pip install opencv-python
+press spacebar to capture
+press escape to exit
