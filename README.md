@@ -1,5 +1,5 @@
 # capture-for-dataset
-only library needed in openCV
-pip install opencv-python
-press spacebar to capture
-press escape to exit
+only library needed in openCV <br>
+pip install opencv- <br>
+press spacebar to capture <br>
+press escape to exit 
